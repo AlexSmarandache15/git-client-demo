@@ -3,5 +3,9 @@
 <topic id="setupxxx">
   <title>Phone Setup</title>
   <shortdesc>Basic xxx phone setup.xxx</shortdesc>
-  <body/>
+  <body>
+    <ol id="ol_itm_xg3_lsb">
+      <li>item</li>
+    </ol>
+  </body>
 </topic>
