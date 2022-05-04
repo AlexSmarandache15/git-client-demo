@@ -2,6 +2,12 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="repairing">
   <title>Repairing the phone</title>
+  <prolog>
+    <metadata>
+      <data name="question">What are the steps to identify the most common cell phone
+        problems?</data>
+    </metadata>
+  </prolog>
   <body>
     <p>This section contains a brief explanation that helps the technician to identify and
       troubleshoot the phone problems.</p>
@@ -13,7 +19,6 @@
         <li>Look for signs of corrosion or moisture and, if found, replace the main-board.</li>
         <li>Insert the battery.</li>
         <li>Put the back cover on.</li>
-        <li>Firefly 2</li>
       </ol>
     </p>
   </body>

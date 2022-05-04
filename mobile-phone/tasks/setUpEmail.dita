@@ -4,6 +4,12 @@
     <title>Setting up an e-mail address</title>
     <shortdesc>You can use the Mail application to set up your email and other POP3 or IMAP email
         accounts.</shortdesc>
+    <prolog>
+        <metadata>
+            <data name="question">How do I set up my email account on my phone?</data>
+            <data name="question">What are the steps to set my email address?</data>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>From the home menu, select <term>Messaging -&gt; Options -&gt; Settings -&gt; Email

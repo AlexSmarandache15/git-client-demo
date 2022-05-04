@@ -3,6 +3,11 @@
 <task id="task_4dn_bhv_qf">
     <title>Making a call</title>
     <shortdesc/>
+    <prolog>
+        <metadata>
+            <data name="question">How do I make a call?</data>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>Make sure that your phone is unlocked, otherwise press the <term>Unlock</term>

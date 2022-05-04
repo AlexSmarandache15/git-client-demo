@@ -3,6 +3,11 @@
 <concept id="bt">
  <title>Bluetooth&#174;</title>
  <shortdesc>Connect to any device</shortdesc>
+ <prolog>
+  <metadata>
+   <data name="question">What is bluetooth?</data>
+  </metadata>
+ </prolog>
  <conbody>
   <p>Bluetooth&#174; is a wireless technology for exchanging data over short distances without
    physical connection</p>

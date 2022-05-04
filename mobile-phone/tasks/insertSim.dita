@@ -3,6 +3,11 @@
 <task id="task_5tn_3bl_wf">
     <title>Inserting the SIM card</title>
     <shortdesc/>
+    <prolog>
+        <metadata>
+            <data name="question">How do I insert the SIM card into my mobile phone?</data>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>Make sure that your phone is turned off.</p>

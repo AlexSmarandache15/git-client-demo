@@ -3,6 +3,13 @@
 <task id="task_ws1_v2g_2g">
     <title>Composing and sending email messages</title>
     <shortdesc/>
+    <prolog>
+        <metadata>
+            <data name="question">What are the steps to write an email?</data>
+            <data name="question">What are the steps to send an email?</data>
+            <data name="question">How do I send an email?</data>
+        </metadata>
+    </prolog>
     <taskbody>
         <context/>
         <steps>
