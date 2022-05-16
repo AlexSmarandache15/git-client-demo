@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_2bh_hl5_qf">
-  <title>Introduction</title>
+  <title>Introduction - yyyyy-zzz</title>
+  <shortdesc><i>An intro.</i></shortdesc>
   <body>
-    <p>Welcome to Syncro mobile phone user guide.</p>
+    <p>xxxx Welcome to Syncro mobile phone user guide.</p>
+    <p>New para</p>
     <p>This user guide is focused on describing features and functionality of your mobile phone.</p>
+    <p>New one new content</p>
+    <p>Was added by a colleague</p>
   </body>
 </topic>

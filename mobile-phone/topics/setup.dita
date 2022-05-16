@@ -3,5 +3,9 @@
 <topic id="setup">
   <title>Phone Setup</title>
   <shortdesc>Basic phone setup.</shortdesc>
-  <body/>
+  <body>
+    <p>A new content.<i>new</i></p>
+    <p>Second paragraph. Text</p>
+    <p>A change.</p>
+  </body>
 </topic>
