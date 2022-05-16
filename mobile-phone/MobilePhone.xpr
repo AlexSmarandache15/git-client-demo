@@ -6,6 +6,14 @@
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
+                        <String>Git_client_plugin_preferences_page</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
                         <String>key.extensions.update.site.option.pane</String>
                         <Boolean>false</Boolean>
                     </entry>
@@ -304,6 +312,9 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="useAntennaHouse">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useDITAScript">
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="baseDir">
@@ -628,6 +639,9 @@
         </options>
     </meta>
     <projectTree name="MobilePhone.xpr">
+        <folder masterFiles="true" name="Main Files">
+            <file name="mobilePhoneCatalogue_DITA.1.3.ditamap"/>
+        </folder>
         <folder path="concepts/"/>
         <folder path="ditaval/"/>
         <folder path="image/"/>
