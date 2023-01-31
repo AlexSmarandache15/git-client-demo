@@ -641,7 +641,6 @@
     <projectTree name="MobilePhone.xpr">
         <folder masterFiles="true" name="Main Files">
             <file name="mobilePhone.ditamap"/>
-            <file name="mobilePhoneCatalogue_DITA.1.3.ditamap"/>
         </folder>
         <folder path="concepts/"/>
         <folder path="ditaval/"/>
