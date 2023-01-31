@@ -17,7 +17,6 @@
         <topicref href="tasks/lockKeys.dita"/>
     </topicref>
   <topicref href="topics/setup.dita">
-    <topicref href="topics/email.dita" collection-type="sequence">
       <topicref href="tasks/setUpEmail.dita"/>
       <topicref href="tasks/composeSendEmail.dita"/>
       <topicref href="topics/deleteEmails.dita"/>
