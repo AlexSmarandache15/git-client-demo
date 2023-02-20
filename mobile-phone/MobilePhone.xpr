@@ -7,7 +7,7 @@
                 <serializableOrderedMap>
                     <entry>
                         <String>Git_client_plugin_preferences_page</String>
-                        <Boolean>false</Boolean>
+                        <Boolean>falsee</Boolean>
                     </entry>
                     <entry>
                         <String>enable.project.master.files.support</String>
