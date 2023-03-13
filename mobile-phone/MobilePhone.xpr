@@ -15,7 +15,7 @@
                     </entry>
                     <entry>
                         <String>key.extensions.update.site.option.pane</String>
-                        <Boolean>false</Boolean>
+                        <Boolean>true</Boolean>
                     </entry>
                     <entry>
                         <String>keys.context</String>
