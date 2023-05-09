@@ -1,0 +1,38 @@
+{"projects": [{
+  "owner": "alex_smarandache",
+  "languageStatus": {
+    "de": "Untranslated",
+    "af": "Untranslated",
+    "it": "Completed",
+    "sq": "Untranslated"
+  },
+  "tgtLanguages": [
+    "de",
+    "af",
+    "it",
+    "sq"
+  ],
+  "srcLanguage": "en",
+  "description": "",
+  "history": [
+    {
+      "date": "March 23, 2023",
+      "build": 0,
+      "language": "it",
+      "type": "XLIFF Created"
+    },
+    {
+      "date": "March 23, 2023",
+      "build": 0,
+      "language": "it",
+      "type": "XLIFF Imported"
+    }
+  ],
+  "title": "nnnnnn",
+  "creationDate": "Mar 23, 2023, 12:48:19 PM",
+  "lastUpdate": "Mar 23, 2023, 12:52:54 PM",
+  "memories": [1679568499912],
+  "id": 1679568499912,
+  "map": "C:\\Users\\alex_smarandache\\Desktop\\git-workspace\\git-client-demo2\\mobile-phone\\mobilePhone.ditamap",
+  "status": "New"
+}]}
