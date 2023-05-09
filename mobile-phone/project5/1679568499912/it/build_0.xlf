@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <?encoding UTF-8?>
+  <file product-name="m" source-language="en" original="concepts\Bluetooth.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIGNvbmNlcHQg
+UFVCTElDICItLy9PQVNJUy8vRFREIERJVEEgQ29uY2VwdC8vRU4iICJjb25jZXB0LmR0ZCI+Cjxj
+b25jZXB0IGRvbWFpbnM9Iih0b3BpYyBjb25jZXB0KSAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVs
+aXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1k
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1
+cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwt
+ZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3Bp
+YyBjb25jZXB0L2NvbmNlcHQgIiB4bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Bl
+bi5vcmcvYXJjaGl0ZWN0dXJlLzIwMDUvIiBpZD0iYnQiPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMv
+dGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRk
+ZXNjICI+JSUlMiUlJQo8L3Nob3J0ZGVzYz4gPGNvbmJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAg
+Y29uY2VwdC9jb25ib2R5ICI+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSUzJSUlCjwvcD4gPC9j
+b25ib2R5PiA8L2NvbmNlcHQ+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Bluetooth®</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Connect to any device</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Bluetooth® is a wireless technology for exchanging data over short distances without physical connection</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="mobilePhone.ditamap" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIG1hcCBQVUJM
+SUMgIi0vL09BU0lTLy9EVEQgRElUQSBNYXAvL0VOIiAibWFwLmR0ZCI+CjxtYXAgZG9tYWlucz0i
+KG1hcCBtYXBncm91cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBkZWxheS1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAobWFwIGRpdGF2YWxyZWYtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+KG1hcCBnbG9zc3JlZi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJk
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcHIt
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgKHRvcGljIHN3LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyB1aS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgdXQtZCkgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kIHhtbC1kKSAgICIgZGl0YWFy
+Y2g6RElUQUFyY2hWZXJzaW9uPSIxLjMiIGNvbGxlY3Rpb24tdHlwZT0ic2VxdWVuY2UiIGNsYXNz
+PSItIG1hcC9tYXAgIiB4bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcv
+YXJjaGl0ZWN0dXJlLzIwMDUvIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUl
+JQo8L3RpdGxlPiA8dG9waWNyZWYgY29sbGVjdGlvbi10eXBlPSJzZXF1ZW5jZSIgaHJlZj0idG9w
+aWNzL2dldHRpbmdTdGFydGVkLmRpdGEiIGNsYXNzPSItIG1hcC90b3BpY3JlZiAiPiA8dG9waWNy
+ZWYgaHJlZj0idG9waWNzL2ludHJvZHVjdGlvbi5kaXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYg
+Ii8+IDx0b3BpY3JlZiBocmVmPSJ0b3BpY3MvU3BlY2lmaWNhdGlvbnMtcmVuYW1lZC1hZ2Fpbi5k
+aXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgIi8+IDx0b3BpY3JlZiBocmVmPSJ0YXNrcy9pbnNl
+cnRCYXR0ZXJ5LmRpdGEiIGNsYXNzPSItIG1hcC90b3BpY3JlZiAiLz4gPHRvcGljcmVmIGhyZWY9
+InRhc2tzL3JlbW92aW5nQmF0dGVyeS5kaXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgIi8+IDx0
+b3BpY3JlZiBocmVmPSJ0YXNrcy9pbnNlcnRTaW0uZGl0YSIgY2xhc3M9Ii0gbWFwL3RvcGljcmVm
+ICIvPiA8dG9waWNyZWYgaHJlZj0idG9waWNzL2ltcG9ydGFudEtleXMuZGl0YSIgY2xhc3M9Ii0g
+bWFwL3RvcGljcmVmICIvPiA8L3RvcGljcmVmPiA8dG9waWNyZWYgY29sbGVjdGlvbi10eXBlPSJz
+ZXF1ZW5jZSIgaHJlZj0idG9waWNzL3Bob25lQmFzaWNzLmRpdGEiIGNsYXNzPSItIG1hcC90b3Bp
+Y3JlZiAiPiA8dG9waWNyZWYgaHJlZj0idGFza3MvbWFrZUFDYWxsLmRpdGEiIGNsYXNzPSItIG1h
+cC90b3BpY3JlZiAiLz4gPHRvcGljcmVmIGhyZWY9InRhc2tzL21ha2VDb25mZXJlbmNlQ2FsbC5k
+aXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgIi8+IDx0b3BpY3JlZiBocmVmPSJ0b3BpY3MvYWRq
+dXN0Vm9sdW1lLmRpdGEiIGNsYXNzPSItIG1hcC90b3BpY3JlZiAiLz4gPHRvcGljcmVmIGhyZWY9
+InRhc2tzL2xvY2tLZXlzLmRpdGEiIGNsYXNzPSItIG1hcC90b3BpY3JlZiAiLz4gPC90b3BpY3Jl
+Zj4gPHRvcGljcmVmIGhyZWY9InRvcGljcy9zZXR1cC5kaXRhIiBjbGFzcz0iLSBtYXAvdG9waWNy
+ZWYgIj4gPHRvcGljcmVmIGhyZWY9InRhc2tzL3NldFVwRW1haWwuZGl0YSIgY2xhc3M9Ii0gbWFw
+L3RvcGljcmVmICIvPiA8dG9waWNyZWYgaHJlZj0idGFza3MvY29tcG9zZVNlbmRFbWFpbC5kaXRh
+IiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgIi8+IDx0b3BpY3JlZiBocmVmPSJ0b3BpY3MvZGVsZXRl
+RW1haWxzLmRpdGEiIGNsYXNzPSItIG1hcC90b3BpY3JlZiAiLz4gPC90b3BpY3JlZj4gPHRvcGlj
+cmVmIGhyZWY9ImNvbmNlcHRzL0JsdWV0b290aC5kaXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYg
+IiBwcm9kdWN0PSJYMjAwMCI+IDx0b3BpY3JlZiBocmVmPSJ0YXNrcy90dXJuQmx1ZXRvb3RoT25P
+ZmYuZGl0YSIgY2xhc3M9Ii0gbWFwL3RvcGljcmVmICIvPiA8dG9waWNyZWYgaHJlZj0idGFza3Mv
+c2VuZEZpbGVCbHVldG9vdGguZGl0YSIgY2xhc3M9Ii0gbWFwL3RvcGljcmVmICIvPiA8dG9waWNy
+ZWYgaHJlZj0idGFza3MvcmVjZWl2ZUZpbGVzQmx1ZXRvb3RoLmRpdGEiIGNsYXNzPSItIG1hcC90
+b3BpY3JlZiAiLz4gPC90b3BpY3JlZj4gPHRvcGljcmVmIGhyZWY9InRvcGljcy9zZXJ2aWNlQW5k
+VHJvdWJsZXNob290aW5nLmRpdGEiIGF1ZGllbmNlPSJUZWNobmljaWFuIiBjbGFzcz0iLSBtYXAv
+dG9waWNyZWYgIj4gPHRvcGljbWV0YSBjbGFzcz0iLSBtYXAvdG9waWNtZXRhICI+IDxkYXRhIGNs
+YXNzPSItIHRvcGljL2RhdGEgIiBuYW1lPSJ3aC10aWxlIj4gPGRhdGEgY2xhc3M9Ii0gdG9waWMv
+ZGF0YSAiIG5hbWU9ImhpZGUiIHZhbHVlPSJ5ZXMiLz4gPC9kYXRhPiA8L3RvcGljbWV0YT4gPHRv
+cGljcmVmIGhyZWY9InRvcGljcy9yZXBhaXJpbmdUaGVQaG9uZS5kaXRhIiBjbGFzcz0iLSBtYXAv
+dG9waWNyZWYgIi8+IDx0b3BpY3JlZiBocmVmPSJ0b3BpY3MvcnVuRGlhZ25vc3RpY1JlcG9ydC5k
+aXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgIi8+IDwvdG9waWNyZWY+IDx0b3BpY3JlZiBocmVm
+PSJwcm9kdWN0U2JqU2NoZW1lVmFscy5kaXRhbWFwIiB0eXBlPSJzdWJqZWN0U2NoZW1lIiBjbGFz
+cz0iLSBtYXAvdG9waWNyZWYgIiBmb3JtYXQ9ImRpdGFtYXAiLz4gPC9tYXA+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Syncro Phone User Guide</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="productSbjSchemeVals.ditamap" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN1YmplY3RT
+Y2hlbWUgUFVCTElDICItLy9PQVNJUy8vRFREIERJVEEgU3ViamVjdCBTY2hlbWUgTWFwLy9FTiIg
+Im1hcC5kdGQiPiAKPHN1YmplY3RTY2hlbWUgZG9tYWlucz0iKG1hcCBtYXBncm91cC1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAobWFwIHN1YmplY3RTY2hlbWUpICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICh0b3BpYyBoYXphcmQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IGhpLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyB1dC1kKSAgICIgZGl0YWFy
+Y2g6RElUQUFyY2hWZXJzaW9uPSIxLjMiIHByb2Nlc3Npbmctcm9sZT0icmVzb3VyY2Utb25seSIg
+Y2xhc3M9Ii0gbWFwL21hcCBzdWJqZWN0U2NoZW1lL3N1YmplY3RTY2hlbWUgIiB4bWxuczpkaXRh
+YXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIwMDUvIiB0b2M9
+Im5vIj4gPHN1YmplY3RIZWFkIGNsYXNzPSItIG1hcC90b3BpY3JlZiBzdWJqZWN0U2NoZW1lL3N1
+YmplY3RIZWFkICIgbGlua2luZz0ibm9ybWFsIj4gPHN1YmplY3RIZWFkTWV0YSBjbGFzcz0iLSBt
+YXAvdG9waWNtZXRhIHN1YmplY3RTY2hlbWUvc3ViamVjdEhlYWRNZXRhICI+IDxuYXZ0aXRsZSBj
+bGFzcz0iLSB0b3BpYy9uYXZ0aXRsZSAiPiUlJTElJSUKPC9uYXZ0aXRsZT4gPC9zdWJqZWN0SGVh
+ZE1ldGE+IDwvc3ViamVjdEhlYWQ+IDxoYXNJbnN0YW5jZSBjbGFzcz0iLSBtYXAvdG9waWNyZWYg
+c3ViamVjdFNjaGVtZS9oYXNJbnN0YW5jZSAiPiA8c3ViamVjdGRlZiBrZXlzPSJwcm9kdWN0U2Jq
+S2V5IiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgc3ViamVjdFNjaGVtZS9zdWJqZWN0ZGVmICI+IDxz
+dWJqZWN0ZGVmIGtleXM9IlgyMDAwIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgc3ViamVjdFNjaGVt
+ZS9zdWJqZWN0ZGVmICI+IDx0b3BpY21ldGEgY2xhc3M9Ii0gbWFwL3RvcGljbWV0YSAiPiA8bmF2
+dGl0bGUgY2xhc3M9Ii0gdG9waWMvbmF2dGl0bGUgIj4lJSUyJSUlCjwvbmF2dGl0bGU+IDwvdG9w
+aWNtZXRhPiA8L3N1YmplY3RkZWY+IDxzdWJqZWN0ZGVmIGtleXM9IlgxMDAwIiBjbGFzcz0iLSBt
+YXAvdG9waWNyZWYgc3ViamVjdFNjaGVtZS9zdWJqZWN0ZGVmICI+IDx0b3BpY21ldGEgY2xhc3M9
+Ii0gbWFwL3RvcGljbWV0YSAiPiA8bmF2dGl0bGUgY2xhc3M9Ii0gdG9waWMvbmF2dGl0bGUgIj4l
+JSUzJSUlCjwvbmF2dGl0bGU+IDwvdG9waWNtZXRhPiA8L3N1YmplY3RkZWY+IDwvc3ViamVjdGRl
+Zj4gPHN1YmplY3RkZWYga2V5cz0iYXVkaWVuY2VTYmpLZXkiIGNsYXNzPSItIG1hcC90b3BpY3Jl
+ZiBzdWJqZWN0U2NoZW1lL3N1YmplY3RkZWYgIj4gPHN1YmplY3RkZWYga2V5cz0iVGVjaG5pY2lh
+biIgY2xhc3M9Ii0gbWFwL3RvcGljcmVmIHN1YmplY3RTY2hlbWUvc3ViamVjdGRlZiAiPiA8dG9w
+aWNtZXRhIGNsYXNzPSItIG1hcC90b3BpY21ldGEgIj4gPG5hdnRpdGxlIGNsYXNzPSItIHRvcGlj
+L25hdnRpdGxlICI+JSUlNCUlJQo8L25hdnRpdGxlPiA8L3RvcGljbWV0YT4gPC9zdWJqZWN0ZGVm
+PiA8c3ViamVjdGRlZiBrZXlzPSJCYXNpY1VzZXIiIGNsYXNzPSItIG1hcC90b3BpY3JlZiBzdWJq
+ZWN0U2NoZW1lL3N1YmplY3RkZWYgIj4gPHRvcGljbWV0YSBjbGFzcz0iLSBtYXAvdG9waWNtZXRh
+ICI+IDxuYXZ0aXRsZSBjbGFzcz0iLSB0b3BpYy9uYXZ0aXRsZSAiPiUlJTUlJSUKPC9uYXZ0aXRs
+ZT4gPC90b3BpY21ldGE+IDwvc3ViamVjdGRlZj4gPC9zdWJqZWN0ZGVmPiA8L2hhc0luc3RhbmNl
+PiA8ZW51bWVyYXRpb25kZWYgY2xhc3M9Ii0gbWFwL3RvcGljcmVmIHN1YmplY3RTY2hlbWUvZW51
+bWVyYXRpb25kZWYgIj4gPGF0dHJpYnV0ZWRlZiBuYW1lPSJwcm9kdWN0IiBjbGFzcz0iLSB0b3Bp
+Yy9kYXRhIHN1YmplY3RTY2hlbWUvYXR0cmlidXRlZGVmICIgdHJhbnNsYXRlPSJubyI+PC9hdHRy
+aWJ1dGVkZWY+IDxzdWJqZWN0ZGVmIGtleXJlZj0icHJvZHVjdFNiaktleSIgY2xhc3M9Ii0gbWFw
+L3RvcGljcmVmIHN1YmplY3RTY2hlbWUvc3ViamVjdGRlZiAiLz4gPC9lbnVtZXJhdGlvbmRlZj4g
+PGVudW1lcmF0aW9uZGVmIGNsYXNzPSItIG1hcC90b3BpY3JlZiBzdWJqZWN0U2NoZW1lL2VudW1l
+cmF0aW9uZGVmICI+IDxhdHRyaWJ1dGVkZWYgbmFtZT0iYXVkaWVuY2UiIGNsYXNzPSItIHRvcGlj
+L2RhdGEgc3ViamVjdFNjaGVtZS9hdHRyaWJ1dGVkZWYgIiB0cmFuc2xhdGU9Im5vIj48L2F0dHJp
+YnV0ZWRlZj4gPHN1YmplY3RkZWYga2V5cmVmPSJhdWRpZW5jZVNiaktleSIgY2xhc3M9Ii0gbWFw
+L3RvcGljcmVmIHN1YmplY3RTY2hlbWUvc3ViamVjdGRlZiAiLz4gPC9lbnVtZXJhdGlvbmRlZj4g
+PCEtLSBSZWplY3QgYWxsIHBvc3NpYmxlIHZhbHVlcyBmb3Igb3RoZXIgcHJvZmlsaW5nIGF0dHJp
+YnV0ZXMgLS0+IDxlbnVtZXJhdGlvbmRlZiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgc3ViamVjdFNj
+aGVtZS9lbnVtZXJhdGlvbmRlZiAiPiA8YXR0cmlidXRlZGVmIG5hbWU9InBsYXRmb3JtIiBjbGFz
+cz0iLSB0b3BpYy9kYXRhIHN1YmplY3RTY2hlbWUvYXR0cmlidXRlZGVmICIgdHJhbnNsYXRlPSJu
+byI+PC9hdHRyaWJ1dGVkZWY+IDxzdWJqZWN0ZGVmIGNsYXNzPSItIG1hcC90b3BpY3JlZiBzdWJq
+ZWN0U2NoZW1lL3N1YmplY3RkZWYgIi8+IDwvZW51bWVyYXRpb25kZWY+IDxlbnVtZXJhdGlvbmRl
+ZiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgc3ViamVjdFNjaGVtZS9lbnVtZXJhdGlvbmRlZiAiPiA8
+YXR0cmlidXRlZGVmIG5hbWU9InByb3BzIiBjbGFzcz0iLSB0b3BpYy9kYXRhIHN1YmplY3RTY2hl
+bWUvYXR0cmlidXRlZGVmICIgdHJhbnNsYXRlPSJubyI+PC9hdHRyaWJ1dGVkZWY+IDxzdWJqZWN0
+ZGVmIGNsYXNzPSItIG1hcC90b3BpY3JlZiBzdWJqZWN0U2NoZW1lL3N1YmplY3RkZWYgIi8+IDwv
+ZW51bWVyYXRpb25kZWY+IDxlbnVtZXJhdGlvbmRlZiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgc3Vi
+amVjdFNjaGVtZS9lbnVtZXJhdGlvbmRlZiAiPiA8YXR0cmlidXRlZGVmIG5hbWU9Im90aGVycHJv
+cHMiIGNsYXNzPSItIHRvcGljL2RhdGEgc3ViamVjdFNjaGVtZS9hdHRyaWJ1dGVkZWYgIiB0cmFu
+c2xhdGU9Im5vIj48L2F0dHJpYnV0ZWRlZj4gPHN1YmplY3RkZWYgY2xhc3M9Ii0gbWFwL3RvcGlj
+cmVmIHN1YmplY3RTY2hlbWUvc3ViamVjdGRlZiAiLz4gPC9lbnVtZXJhdGlvbmRlZj4gPGVudW1l
+cmF0aW9uZGVmIGNsYXNzPSItIG1hcC90b3BpY3JlZiBzdWJqZWN0U2NoZW1lL2VudW1lcmF0aW9u
+ZGVmICI+IDxhdHRyaWJ1dGVkZWYgbmFtZT0icmV2IiBjbGFzcz0iLSB0b3BpYy9kYXRhIHN1Ympl
+Y3RTY2hlbWUvYXR0cmlidXRlZGVmICIgdHJhbnNsYXRlPSJubyI+PC9hdHRyaWJ1dGVkZWY+IDxz
+dWJqZWN0ZGVmIGNsYXNzPSItIG1hcC90b3BpY3JlZiBzdWJqZWN0U2NoZW1lL3N1YmplY3RkZWYg
+Ii8+IDwvZW51bWVyYXRpb25kZWY+IDwvc3ViamVjdFNjaGVtZT4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Phone Guide User Manual Controlled Values list</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>X2000 Phone Guide</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>X1000 Phone Guide</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Technician Level</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Basic User Level</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\composeSendEmail.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza193czFfdjJnXzJnIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4g
+PHRhc2tib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgdGFzay90YXNrYm9keSAiPiA8Y29udGV4dCBj
+bGFzcz0iLSB0b3BpYy9zZWN0aW9uIHRhc2svY29udGV4dCAiLz4gPHN0ZXBzIGNsYXNzPSItIHRv
+cGljL29sIHRhc2svc3RlcHMgIj4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+
+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSUyJSUlCjwvY21kPiA8L3N0ZXA+
+IDxzdGVwIGNsYXNzPSItIHRvcGljL2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNzPSItIHRvcGlj
+L3BoIHRhc2svY21kICI+JSUlMyUlJQo8L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0iLSB0b3Bp
+Yy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTQl
+JSUKJSUlNSUlJQolJSU2JSUlCiUlJTclJSUKPC9jbWQ+IDwvc3RlcD4gPHN0ZXAgY2xhc3M9Ii0g
+dG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4l
+JSU4JSUlCjwvY21kPiA8L3N0ZXA+IDxzdGVwIGNsYXNzPSItIHRvcGljL2xpIHRhc2svc3RlcCAi
+PiA8Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21kICI+JSUlOSUlJQogPC9jbWQ+IDwvc3Rl
+cD4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9Ii0gdG9w
+aWMvcGggdGFzay9jbWQgIj4lJSUxMCUlJQo8L2NtZD4gPC9zdGVwPiA8L3N0ZXBzPiA8L3Rhc2ti
+b2R5PiA8L3Rhc2s+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Composing and sending email messages</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>On the home screen, click the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Messages<ph id="1">&lt;/term&gt;</ph> icon.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Press <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Compose Email<ph id="1">&lt;/term&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>In the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>To<ph id="1">&lt;/term&gt;</ph> field, fill in one or more recipients. typing an email address or a contact name.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source> You can enter more than one email addresses separated by comma.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source> As you enter email addresses, any matching addresses from your contacts list are displayed.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source> You can also type as recipients a contact name or contact groups.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source>Select the Show <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Cc<ph id="1">&lt;/term&gt;</ph>/<ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Bcc<ph id="3">&lt;/term&gt;</ph> icon if you want to fill in the <ph ctype="x-other" id="4">&lt;term class="- topic/term "&gt;</ph>Cc<ph id="5">&lt;/term&gt;</ph> or a <ph ctype="x-other" id="6">&lt;term class="- topic/term "&gt;</ph>Bcc<ph id="7">&lt;/term&gt;</ph> fields.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>Enter the subject, and then compose your message.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="10">
+      <source>To send the message, press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Send<ph id="1">&lt;/term&gt;</ph> key.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\insertBattery.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza193dzFfZmgzX3JmIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4g
+PHRhc2tib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgdGFzay90YXNrYm9keSAiPiA8Y29udGV4dCBj
+bGFzcz0iLSB0b3BpYy9zZWN0aW9uIHRhc2svY29udGV4dCAiPiA8cCBjbGFzcz0iLSB0b3BpYy9w
+ICI+JSUlMiUlJQo8L3A+IDwvY29udGV4dD4gPHN0ZXBzIGNsYXNzPSItIHRvcGljL29sIHRhc2sv
+c3RlcHMgIj4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICIgaWQ9ImZpcnN0U3Rl
+cCI+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSUzJSUlCiUlJTQlJSUKIDxp
+bWFnZSBocmVmPSIuLi9pbWFnZS9pbnNlcnRCYXR0ZXJ5LmpwZyIgcGxhY2VtZW50PSJicmVhayIg
+Y2xhc3M9Ii0gdG9waWMvaW1hZ2UgIiBpZD0iaW1hZ2VfajVzX2JubF93ZiIvPjwvY21kPiA8L3N0
+ZXA+IDxzdGVwIGNsYXNzPSItIHRvcGljL2xpIHRhc2svc3RlcCAiIGlkPSJsYXN0U3RlcCI+IDxj
+bWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSU1JSUlCiUlJTYlJSUKPC9jbWQ+IDwv
+c3RlcD4gPC9zdGVwcz4gPC90YXNrYm9keT4gPC90YXNrPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Inserting the battery222</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Before proceeding with these steps, make sure that your mobile phone is turned hoff.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source> Insert the battery into the battery compartment.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source> See the following image:</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Put the back cover on.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source> Make sure it is closed firmly.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" original="tasks\insertSim.dita" source-language="en" target-language="it" datatype="x-ditamap" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSB0YXNrIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRhc2svL0VOIiAidGFzay5kdGQiPgo8dGFzayBkaXRh
+YXJjaDpESVRBQXJjaFZlcnNpb249IjEuMyIgZG9tYWlucz0iKHRvcGljIHRhc2spICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBhYmJyZXYtZCkgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgYShwcm9wcyBkZWxpdmVyeVRhcmdldCkgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+KHRvcGljIGVxdWF0aW9uLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoYXph
+cmQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGhpLWQpICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgbWFya3VwLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBt
+YXRobWwtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHByLWQpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyByZWxtZ210LWQpICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICh0b3BpYyBzdy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3Zn
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyB1aS1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgdXQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIG1hcmt1cC1kIHhtbC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgdGFz
+ayBzdHJpY3RUYXNrYm9keS1jKSAgICIgY2xhc3M9Ii0gdG9waWMvdG9waWMgdGFzay90YXNrICIg
+aWQ9InRhc2tfNXRuXzNibF93ZiIgeG1sbnM6ZGl0YWFyY2g9Imh0dHA6Ly9kaXRhLm9hc2lzLW9w
+ZW4ub3JnL2FyY2hpdGVjdHVyZS8yMDA1LyI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAi
+PiUlJTElJSUKPC90aXRsZT4gPHNob3J0ZGVzYyBjbGFzcz0iLSB0b3BpYy9zaG9ydGRlc2MgIi8+
+IDx0YXNrYm9keSBjbGFzcz0iLSB0b3BpYy9ib2R5IHRhc2svdGFza2JvZHkgIj4gPGNvbnRleHQg
+Y2xhc3M9Ii0gdG9waWMvc2VjdGlvbiB0YXNrL2NvbnRleHQgIj4gPHAgY2xhc3M9Ii0gdG9waWMv
+cCAiPiUlJTIlJSUKPC9wPiA8L2NvbnRleHQ+IDxzdGVwcyBjbGFzcz0iLSB0b3BpYy9vbCB0YXNr
+L3N0ZXBzICI+IDxzdGVwIGNvbnJlZj0icmVtb3ZpbmdCYXR0ZXJ5LmRpdGEjdGFza18zbWxfcW0z
+X3JmL2ZpcnN0U3RlcCIgY29ucmVmZW5kPSJyZW1vdmluZ0JhdHRlcnkuZGl0YSN0YXNrXzNtbF9x
+bTNfcmYvbGFzdFN0ZXAiIGNsYXNzPSItIHRvcGljL2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNz
+PSItIHRvcGljL3BoIHRhc2svY21kICI+JSUlMyUlJQogPC9jbWQ+IDwvc3RlcD4gPHN0ZXAgY29u
+cmVmPSJpbnNlcnRCYXR0ZXJ5LmRpdGEjdGFza193dzFfZmgzX3JmL2ZpcnN0U3RlcCIgY29ucmVm
+ZW5kPSJpbnNlcnRCYXR0ZXJ5LmRpdGEjdGFza193dzFfZmgzX3JmL2xhc3RTdGVwIiBjbGFzcz0i
+LSB0b3BpYy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAi
+PiUlJTQlJSUKJSUlNSUlJQogPGltYWdlIGhyZWY9Ii4uL2ltYWdlL2luc2VydEJhdHRlcnkuanBn
+IiBwbGFjZW1lbnQ9ImJyZWFrIiBjbGFzcz0iLSB0b3BpYy9pbWFnZSAiIGlkPSJpbWFnZV9qNXNf
+Ym5sX3dmIi8+PC9jbWQ+IDwvc3RlcD4gPC9zdGVwcz4gPC90YXNrYm9keT4gPC90YXNrPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source>Inserting the SIM card</source>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source>Make sure that your phone is turned off.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source>Remove the back cover.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source> Insert the battery into the battery compartment.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source> See the following image:</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\lockKeys.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza19lZ2xfanhsXzNnIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4g
+PHRhc2tib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgdGFzay90YXNrYm9keSAiPiA8Y29udGV4dCBj
+bGFzcz0iLSB0b3BpYy9zZWN0aW9uIHRhc2svY29udGV4dCAiPiA8cCBjbGFzcz0iLSB0b3BpYy9w
+ICI+JSUlMiUlJQo8L3A+IDwvY29udGV4dD4gPHN0ZXBzIGNsYXNzPSItIHRvcGljL29sIHRhc2sv
+c3RlcHMgIj4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9
+Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSUzJSUlCjwvY21kPiA8L3N0ZXA+IDxzdGVwIGNsYXNz
+PSItIHRvcGljL2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21k
+ICI+JSUlNCUlJQo8L2NtZD4gPC9zdGVwPiA8L3N0ZXBzPiA8L3Rhc2tib2R5PiA8L3Rhc2s+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Locking and unlocking your phone</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>You can lock the keyboard of your phone to avoid pressing keys or call accidentally.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>To lock your phone, press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Lock<ph id="1">&lt;/term&gt;</ph> key with this icon <ph ctype="image" id="2">&lt;image height="1em" href="../image/Lock.jpg" placement="inline" class="- topic/image " id="image_pmp_g14_2g"/&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>To unlock the keyboard, press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Lock<ph id="1">&lt;/term&gt;</ph> key again.</source>
+   </trans-unit>
+    </body>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXExvY2suanBn
+IiwiaHJlZiI6Ii4uL2ltYWdlL0xvY2suanBnIn0=?>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\makeACall.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza180ZG5fYmh2X3FmIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4g
+PHRhc2tib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgdGFzay90YXNrYm9keSAiPiA8Y29udGV4dCBj
+bGFzcz0iLSB0b3BpYy9zZWN0aW9uIHRhc2svY29udGV4dCAiPiA8cCBjbGFzcz0iLSB0b3BpYy9w
+ICI+JSUlMiUlJQo8L3A+IDwvY29udGV4dD4gPHN0ZXBzIGNsYXNzPSItIHRvcGljL29sIHRhc2sv
+c3RlcHMgIj4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9
+Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSUzJSUlCjwvY21kPiA8L3N0ZXA+IDxzdGVwIGNsYXNz
+PSItIHRvcGljL2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21k
+ICI+JSUlNCUlJQo8L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0YXNrL3N0
+ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTUlJSUKPC9jbWQ+IDwv
+c3RlcD4gPC9zdGVwcz4gPC90YXNrYm9keT4gPC90YXNrPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Making a call</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Make sure that your phone is unlocked, otherwise press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Unlock<ph id="1">&lt;/term&gt;</ph> key</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Type a phone number or a go to <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Contacts<ph id="1">&lt;/term&gt;</ph> and search for contact name</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Call<ph id="1">&lt;/term&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>To end your call, press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Cancel<ph id="1">&lt;/term&gt;</ph> key.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" original="tasks\makeConferenceCall.dita" source-language="en" target-language="it" datatype="x-ditamap" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSB0YXNrIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRhc2svL0VOIiAidGFzay5kdGQiPgo8dGFzayBkaXRh
+YXJjaDpESVRBQXJjaFZlcnNpb249IjEuMyIgZG9tYWlucz0iKHRvcGljIHRhc2spICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBhYmJyZXYtZCkgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgYShwcm9wcyBkZWxpdmVyeVRhcmdldCkgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+KHRvcGljIGVxdWF0aW9uLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoYXph
+cmQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGhpLWQpICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgbWFya3VwLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBt
+YXRobWwtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHByLWQpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyByZWxtZ210LWQpICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICh0b3BpYyBzdy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3Zn
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyB1aS1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgdXQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIG1hcmt1cC1kIHhtbC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgdGFz
+ayBzdHJpY3RUYXNrYm9keS1jKSAgICIgY2xhc3M9Ii0gdG9waWMvdG9waWMgdGFzay90YXNrICIg
+aWQ9InRhc2tfYnF0X3NibV81ZiIgeG1sbnM6ZGl0YWFyY2g9Imh0dHA6Ly9kaXRhLm9hc2lzLW9w
+ZW4ub3JnL2FyY2hpdGVjdHVyZS8yMDA1LyI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAi
+PiUlJTElJSUKPC90aXRsZT4gPHNob3J0ZGVzYyBjbGFzcz0iLSB0b3BpYy9zaG9ydGRlc2MgIj4l
+JSUyJSUlCiUlJTMlJSUKPC9zaG9ydGRlc2M+IDx0YXNrYm9keSBjbGFzcz0iLSB0b3BpYy9ib2R5
+IHRhc2svdGFza2JvZHkgIj4gPGNvbnRleHQgY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiB0YXNrL2Nv
+bnRleHQgIj4gPHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTQlJSUKIDwvcD4gPC9jb250ZXh0PiA8
+c3RlcHMgY2xhc3M9Ii0gdG9waWMvb2wgdGFzay9zdGVwcyAiPiA8c3RlcCBjbGFzcz0iLSB0b3Bp
+Yy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTUl
+JSUKJSUlNiUlJQo8L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0YXNrL3N0
+ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTclJSUKJSUlOCUlJQo8
+L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBj
+bGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTklJSUKPC9jbWQ+IDwvc3RlcD4gPHN0ZXAg
+Y2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFz
+ay9jbWQgIj4lJSUxMCUlJQo8L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0
+YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTExJSUlCiA8
+L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBj
+bGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTEyJSUlCjwvY21kPiA8L3N0ZXA+IDwvc3Rl
+cHM+IDwvdGFza2JvZHk+IDwvdGFzaz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source>Setting up a conference call</source>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source>You can easily set up a conference call with your family, friends, co-workers.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source> Call the first participant and then join calls together as described in the following procedure.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source>Before starting, make sure that your <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>SIM card<ph id="1">&lt;/term&gt;</ph> is enabled for conference calls service.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source>Call the first participant.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source> See <mrk ts="‹xref status=″removeContent″ href=″makeACall.dita″ class=″- topic/xref ″ removeTranslate=″yes″ translate=″no″​›" mtype="protected">Making a call</mrk></source>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source>During the call, press <ph ctype="image" id="0">&lt;image height="1em" href="../image/MakeConference.jpg" placement="inline" class="- topic/image " id="image_2tz_glm_5f"/&gt;</ph> key to add a participant.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source> In this way the first participant in put on hold.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="9" xml:space="preserve">
+      <source>Type the participant phone number or search for in contacts.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="10" xml:space="preserve">
+      <source>Press the <ph ctype="image" id="0">&lt;image height="1em" href="../image/call.svg" placement="inline" class="- topic/image " id="image_gl2_23v_qf"/&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="11" xml:space="preserve">
+      <source>To join also the first contact to the conference call, press the <ph ctype="image" id="0">&lt;image height="1em" href="../image/call.svg" placement="inline" class="- topic/image " id="image_5d4_khv_2g"/&gt;</ph> key again.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="12" xml:space="preserve">
+      <source>To join other contact to the conference, repeat steps 2 - 5.</source>
+   </trans-unit>
+    </body>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXE1ha2VDb25m
+ZXJlbmNlLmpwZyIsImhyZWYiOiIuLi9pbWFnZS9NYWtlQ29uZmVyZW5jZS5qcGcifQ==?>
+  </file>
+  <file product-name="m" original="tasks\receiveFilesBluetooth.dita" source-language="en" target-language="it" datatype="x-ditamap" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSB0YXNrIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRhc2svL0VOIiAidGFzay5kdGQiPgo8dGFzayBkaXRh
+YXJjaDpESVRBQXJjaFZlcnNpb249IjEuMyIgZG9tYWlucz0iKHRvcGljIHRhc2spICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBhYmJyZXYtZCkgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgYShwcm9wcyBkZWxpdmVyeVRhcmdldCkgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+KHRvcGljIGVxdWF0aW9uLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoYXph
+cmQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGhpLWQpICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgbWFya3VwLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBt
+YXRobWwtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHByLWQpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyByZWxtZ210LWQpICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICh0b3BpYyBzdy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3Zn
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyB1aS1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgdXQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIG1hcmt1cC1kIHhtbC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgdGFz
+ayBzdHJpY3RUYXNrYm9keS1jKSAgICIgY2xhc3M9Ii0gdG9waWMvdG9waWMgdGFzay90YXNrICIg
+aWQ9InRhc2tfeWp2X3R0cF90ZiIgeG1sbnM6ZGl0YWFyY2g9Imh0dHA6Ly9kaXRhLm9hc2lzLW9w
+ZW4ub3JnL2FyY2hpdGVjdHVyZS8yMDA1LyI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAi
+PiUlJTElJSUKPC90aXRsZT4gPHNob3J0ZGVzYyBjbGFzcz0iLSB0b3BpYy9zaG9ydGRlc2MgIj4l
+JSUyJSUlCiA8L3Nob3J0ZGVzYz4gPHRhc2tib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgdGFzay90
+YXNrYm9keSAiPiA8Y29udGV4dCBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIHRhc2svY29udGV4dCAi
+PiA8cCBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMyUlJQolJSU0JSUlCjwvcD4gPC9jb250ZXh0PiA8
+c3RlcHMgY2xhc3M9Ii0gdG9waWMvb2wgdGFzay9zdGVwcyAiPiA8c3RlcCBjbGFzcz0iLSB0b3Bp
+Yy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTUl
+JSUKIDwvY21kPiA8L3N0ZXA+IDxzdGVwIGNsYXNzPSItIHRvcGljL2xpIHRhc2svc3RlcCAiPiA8
+Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21kICI+JSUlNiUlJQo8L2NtZD4gPC9zdGVwPiA8
+c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9w
+aCB0YXNrL2NtZCAiPiUlJTclJSUKPC9jbWQ+IDwvc3RlcD4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMv
+bGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSU4JSUl
+CjwvY21kPiA8L3N0ZXA+IDwvc3RlcHM+IDwvdGFza2JvZHk+IDwvdGFzaz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source>Receiving files using Bluetooth®</source>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source> When a file is sent to your phone using Bluetooth® technology, a dialog box appears on your phone screen.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source>To perform this task, the Bluetooth® must be turned on.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source> See <mrk ts="‹xref status=″removeContent″ href=″../tasks/turnBluetoothOnOff.dita″ class=″- topic/xref ″ removeTranslate=″yes″ translate=″no″​›" mtype="protected">Turning Bluetooth® on and off</mrk></source>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source>In the dialog box that appears on your device, asking if you accept the transfer click <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Yes<ph id="1">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source>Choose a location where to save the file.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source>Click <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Save<ph id="1">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source>When the file is transferred, a notification message is displayed.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\removingBattery.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza18zbWxfcW0zX3JmIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4g
+PHRhc2tib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgdGFzay90YXNrYm9keSAiPiA8Y29udGV4dCBj
+bGFzcz0iLSB0b3BpYy9zZWN0aW9uIHRhc2svY29udGV4dCAiPiA8cCBjbGFzcz0iLSB0b3BpYy9w
+ICI+JSUlMiUlJQo8L3A+IDwvY29udGV4dD4gPHN0ZXBzIGNsYXNzPSItIHRvcGljL29sIHRhc2sv
+c3RlcHMgIj4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICIgaWQ9ImZpcnN0U3Rl
+cCI+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSUzJSUlCiA8L2NtZD4gPC9z
+dGVwPiA8c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0YXNrL3N0ZXAgIiBpZD0ibGFzdFN0ZXAiPiA8
+Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21kICI+JSUlNCUlJQogPGltYWdlIGhyZWY9Ii4u
+L2ltYWdlL3JlbW92aW5nQmF0dGVyeS5qcGciIHBsYWNlbWVudD0iYnJlYWsiIGNsYXNzPSItIHRv
+cGljL2ltYWdlICIgaWQ9ImltYWdlX2NjM19tbjNfcmYiLz48L2NtZD4gPC9zdGVwPiA8L3N0ZXBz
+PiA8L3Rhc2tib2R5PiA8L3Rhc2s+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Removing the battery</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Before proceeding with these steps, make sure that your mobile phone is turned off.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Remove the back cover.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Lift out the battery from the notch as per the following image:</source>
+   </trans-unit>
+    </body>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXHJlbW92aW5n
+QmF0dGVyeS5qcGciLCJocmVmIjoiLi4vaW1hZ2UvcmVtb3ZpbmdCYXR0ZXJ5LmpwZyJ9?>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\sendFileBluetooth.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza19seGZfYmNwX3RmIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiPiUl
+JTIlJSUKIDwvc2hvcnRkZXNjPiA8dGFza2JvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSB0YXNrL3Rh
+c2tib2R5ICI+IDxjb250ZXh0IGNsYXNzPSItIHRvcGljL3NlY3Rpb24gdGFzay9jb250ZXh0ICI+
+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSUzJSUlCjwvcD4gPC9jb250ZXh0PiA8c3RlcHMgY2xh
+c3M9Ii0gdG9waWMvb2wgdGFzay9zdGVwcyAiPiA8c3RlcCBjbGFzcz0iLSB0b3BpYy9saSB0YXNr
+L3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTQlJSUKPC9jbWQ+
+IDwvc3RlcD4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9
+Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSU1JSUlCjwvY21kPiA8L3N0ZXA+IDxzdGVwIGNsYXNz
+PSItIHRvcGljL2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21k
+ICI+JSUlNiUlJQogPC9jbWQ+IDwvc3RlcD4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9z
+dGVwICI+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSU3JSUlCjwvY21kPiA8
+L3N0ZXA+IDxzdGVwIGNsYXNzPSItIHRvcGljL2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNzPSIt
+IHRvcGljL3BoIHRhc2svY21kICI+JSUlOCUlJQo8L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0i
+LSB0b3BpYy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAi
+PiUlJTklJSUKIDwvY21kPiA8L3N0ZXA+IDwvc3RlcHM+IDwvdGFza2JvZHk+IDwvdGFzaz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Sending files using Bluetooth®</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source> You can use Bluetooth® to send your picture, videos, and audio files to another Bluetooth® enabled device such as a phone or notebook computer.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source> Before you begin, make sure that the receiving device is set to discoverable mode </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>From the phone menu, open the application that contains the file you want to send.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Select the media file and press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Bluetooth<ph id="1">&lt;/term&gt;</ph>® key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>If necessary turn on the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Bluetooth<ph id="1">&lt;/term&gt;</ph>® device.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>If you have not paired with the receiving device before, select <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Scan for devices<ph id="1">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source>Select the name of the receiving device </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>Press <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Send<ph id="1">&lt;/term&gt;</ph> to sent the file.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\setUpEmail.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza19yMzNfbXRsXzNnIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiPiUl
+JTIlJSUKPC9zaG9ydGRlc2M+IDx0YXNrYm9keSBjbGFzcz0iLSB0b3BpYy9ib2R5IHRhc2svdGFz
+a2JvZHkgIj4gPGNvbnRleHQgY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiB0YXNrL2NvbnRleHQgIj4g
+PHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTMlJSUKJSUlNCUlJQolJSU1JSUlCjwvcD4gPC9jb250
+ZXh0PiA8c3RlcHMgY2xhc3M9Ii0gdG9waWMvb2wgdGFzay9zdGVwcyAiPiA8c3RlcCBjbGFzcz0i
+LSB0b3BpYy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAi
+PiUlJTYlJSUKJSUlNyUlJQolJSU4JSUlCjwvY21kPiA8L3N0ZXA+IDxzdGVwIGNsYXNzPSItIHRv
+cGljL2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21kICI+JSUl
+OSUlJQogPC9jbWQ+IDwvc3RlcD4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+
+IDxjbWQgY2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSUxMCUlJQo8P294eV9kZWxldGUg
+YXV0aG9yPSJNYXJ5IiB0aW1lc3RhbXA9IjIwMTYwMzI4VDExMTExNCswMzAwIiBjb250ZW50PSIg
+YW5kIHlvdXIgb3V0Z29pbmcgbWFpbCBzZXJ2ZXIgdGhlbiBjaG9vc2UgJmx0O3Rlcm0mZ3Q7TmV4
+dCZsdDsvdGVybSZndDsuIiBjb21tZW50PSJUaGlzIHNob3VsZCBiZSBhbm90aGVyIHN0ZXAuIj8+
+PC9jbWQ+IDwvc3RlcD4gPHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQg
+Y2xhc3M9Ii0gdG9waWMvcGggdGFzay9jbWQgIj4lJSUxMSUlJQolJSUxMiUlJQolJSUxMyUlJQol
+JSUxNCUlJQo8dGVybSBjbGFzcz0iLSB0b3BpYy90ZXJtICI+PD9veHlfZGVsZXRlIGF1dGhvcj0i
+VG9tIiB0aW1lc3RhbXA9IjIwMTYwMzI4VDExMTgwMiswMzAwIiBjb250ZW50PSJGaW5pc2giPz48
+P294eV9pbnNlcnRfc3RhcnQgYXV0aG9yPSJUb20iIHRpbWVzdGFtcD0iMjAxNjAzMjhUMTExODA1
+KzAzMDAiIGNvbW1lbnQ9IlNvbWVvbmUgcGxlYXNlIGRvdWJsZSBjaGVjayB0aGUgbmFtZSBvZiB0
+aGlzIGFjdGlvbi4iIGlkPSJnc21feGtxX2x2Ij8+PD9veHlfY29tbWVudF9zdGFydCBhdXRob3I9
+Ik1hcnkiIHRpbWVzdGFtcD0iMjAxNjAzMjhUMTExOTMxKzAzMDAiIGNvbW1lbnQ9IlllcywgeW91
+IGFyZSBjb3JyZWN0LiIgcGFyZW50SUQ9ImdzbV94a3FfbHYiPz4lJSUxNSUlJQo8P294eV9jb21t
+ZW50X2VuZCA/Pjw/b3h5X2luc2VydF9lbmQgPz48L3Rlcm0+JSUlMTYlJSUKJSUlMTclJSUKJSUl
+MTglJSUKPD9veHlfY29tbWVudF9zdGFydCBhdXRob3I9Ik1hcnkiIHRpbWVzdGFtcD0iMjAxNjAz
+MjhUMTExNjI4KzAzMDAiIGNvbW1lbnQ9IlRoZSB1c2VyIGhhcyB0byB0ZXN0IHRoZSBjb25uZWN0
+aW9uIGJlZm9yZSBzYXZpbmcgaXQsIHJpZ2h0PyIgaWQ9InlicV9ya3FfbHYiPz48P294eV9jb21t
+ZW50X3N0YXJ0IGF1dGhvcj0iVG9tIiB0aW1lc3RhbXA9IjIwMTYwMzI4VDExMTc0OCswMzAwIiBj
+b21tZW50PSJZZXMsIHlvdSBhcmUgcmlnaHQuIFRoZXJlIGlzIGEgVGVzdCBDb25uZWN0aW9uIGJ1
+dHRvbi4gSm9obiwgY2FuIHlvdSBwbGVhc2UgY2hlY2sgdGhhdD8iIHBhcmVudElEPSJ5YnFfcmtx
+X2x2IiBpZD0iem1jX2tjMl9tdiIgbWlkPSIzIj8+PD9veHlfY29tbWVudF9zdGFydCBhdXRob3I9
+IkpvaG4iIHRpbWVzdGFtcD0iMjAxNjAzMzBUMDgyNzQ4KzAzMDAiIGNvbW1lbnQ9IkkmYXBvczts
+bCB0YWtlIGNhcmUgb2YgdGhpcy4iIHBhcmVudElEPSJ5YnFfcmtxX2x2IiBtaWQ9IjIiPz4lJSUx
+OSUlJQogPD9veHlfY29tbWVudF9lbmQgbWlkPSIyIj8+PD9veHlfY29tbWVudF9lbmQgbWlkPSIz
+Ij8+PD9veHlfY29tbWVudF9lbmQgPz48L2NtZD4gPC9zdGVwPiA8c3RlcCBjbGFzcz0iLSB0b3Bp
+Yy9saSB0YXNrL3N0ZXAgIj4gPGNtZCBjbGFzcz0iLSB0b3BpYy9waCB0YXNrL2NtZCAiPiUlJTIw
+JSUlCjwvY21kPiA8L3N0ZXA+IDwvc3RlcHM+IDwvdGFza2JvZHk+IDwvdGFzaz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Setting up an e-mail address</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>You can use the Mail application to set up your email and other POP3 or IMAP email accounts.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>From the home menu, select <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Messaging -&gt; Options -&gt; Settings -&gt; Email -&gt; Mailboxes<ph id="1">&lt;/term&gt;</ph> and add a new mailbox.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source> Then follow the wizard which walks you through the process.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source> First choose <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Start<ph id="1">&lt;/term&gt;</ph> to begin the process described below:</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>Choose one of the options:</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source> If this is the first time your are setting up an e-mail account, select POP3/IMAP.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source> If you have already added an email account, select <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>New account<ph id="1">&lt;/term&gt;</ph> and then select POP3/IMAP.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>Type your email address and password and then press <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Next<ph id="1">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="10">
+      <source> Enter your incoming mail server then choose <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Next<ph id="1">&lt;/term&gt;</ph></source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="11">
+      <source>Insert your name and the account name.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="12">
+      <source> Give this mailbox a name.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="13">
+      <source> Make it meaningful, for example ‘Gmail email’ if your email provider is Gmail.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="14">
+      <source> When this details have been entered, choose </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="15">
+      <source>Done</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="16">
+      <source> and the following notification is displayed:</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="17">
+      <source> ‘Setup complete.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="18">
+      <source> Settings can be edited in e-mail settings section’.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="19">
+      <source> Click <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>OK<ph id="1">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="20">
+      <source>After you have received this confirmation message, you can view and manage your email messages, from the home menu, select the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Messages<ph id="1">&lt;/term&gt;</ph> icon.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="tasks\turnBluetoothOnOff.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRhc2sgUFVC
+TElDICItLy9PQVNJUy8vRFREIERJVEEgVGFzay8vRU4iICJ0YXNrLmR0ZCI+Cjx0YXNrIGRvbWFp
+bnM9Iih0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVhdGlvbi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdt
+dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ctZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHV0LWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAtZCB4bWwtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIHRhc2sgc3RyaWN0VGFza2JvZHktYykgICAiIGRpdGFhcmNo
+OkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3BpYy90b3BpYyB0YXNrL3Rhc2sgIiB4
+bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIw
+MDUvIiBpZD0idGFza19wdHJfMTJtXzNnIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiPiUl
+JTIlJSUKJSUlMyUlJQogPC9zaG9ydGRlc2M+IDx0YXNrYm9keSBjbGFzcz0iLSB0b3BpYy9ib2R5
+IHRhc2svdGFza2JvZHkgIj4gPHN0ZXBzIGNsYXNzPSItIHRvcGljL29sIHRhc2svc3RlcHMgIj4g
+PHN0ZXAgY2xhc3M9Ii0gdG9waWMvbGkgdGFzay9zdGVwICI+IDxjbWQgY2xhc3M9Ii0gdG9waWMv
+cGggdGFzay9jbWQgIj4lJSU0JSUlCjwvY21kPiA8L3N0ZXA+IDxzdGVwIGNsYXNzPSItIHRvcGlj
+L2xpIHRhc2svc3RlcCAiPiA8Y21kIGNsYXNzPSItIHRvcGljL3BoIHRhc2svY21kICI+JSUlNSUl
+JQo8L2NtZD4gPC9zdGVwPiA8L3N0ZXBzPiA8L3Rhc2tib2R5PiA8L3Rhc2s+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Turning Bluetooth® on and off</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Turn off <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Bluetooth<ph id="1">&lt;/term&gt;</ph> when you are not using it to save battery power.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source> Also, turned it off in places where using a wireless device is not allowed (for example on board an aircraft).</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>From the home menu, select <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Bluetooth<ph id="1">&lt;/term&gt;</ph> and then select <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Settings<ph id="3">&lt;/term&gt;</ph> &gt; <ph ctype="x-other" id="4">&lt;term class="- topic/term "&gt;</ph>Wireless &amp; networks<ph id="5">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Select or clear the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Bluetooth<ph id="1">&lt;/term&gt;</ph> check box.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\Specifications-renamed-again.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjwhRE9DVFlQRSB0b3BpYyBQ
+VUJMSUMgIi0vL09BU0lTLy9EVEQgRElUQSBUb3BpYy8vRU4iICJ0b3BpYy5kdGQiPg0KPHRvcGlj
+IGRvbWFpbnM9Iih0b3BpYyBhYmJyZXYtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgYShw
+cm9wcyBkZWxpdmVyeVRhcmdldCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGVx
+dWF0aW9uLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoYXphcmQtZCkgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGhpLWQpICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgbWFya3VwLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXRobWwtZCkg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHByLWQpICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICh0b3BpYyByZWxtZ210LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBzdy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgc3ZnLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyB1aS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgdXQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1
+cC1kIHhtbC1kKSAgICIgZGl0YWFyY2g6RElUQUFyY2hWZXJzaW9uPSIxLjMiIGNsYXNzPSItIHRv
+cGljL3RvcGljICIgeG1sbnM6ZGl0YWFyY2g9Imh0dHA6Ly9kaXRhLm9hc2lzLW9wZW4ub3JnL2Fy
+Y2hpdGVjdHVyZS8yMDA1LyIgaWQ9InRvcGljX2Q1cF9oM2JfZmciPiA8dGl0bGUgY2xhc3M9Ii0g
+dG9waWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxib2R5IGNsYXNzPSItIHRvcGljL2JvZHkg
+Ij4gPGRsIGNsYXNzPSItIHRvcGljL2RsICI+IDxkbGVudHJ5IGNsYXNzPSItIHRvcGljL2RsZW50
+cnkgIj4gPGR0IGNsYXNzPSItIHRvcGljL2R0ICI+JSUlMiUlJQo8L2R0PiA8ZGQgY2xhc3M9Ii0g
+dG9waWMvZGQgIiBwcm9kdWN0PSJYMTAwMCI+JSUlMyUlJQo8L2RkPiA8ZGQgY2xhc3M9Ii0gdG9w
+aWMvZGQgIiBwcm9kdWN0PSJYMjAwMCI+JSUlNCUlJQo8L2RkPiA8L2RsZW50cnk+IDwvZGw+IDxk
+bCBjbGFzcz0iLSB0b3BpYy9kbCAiPiA8ZGxlbnRyeSBjbGFzcz0iLSB0b3BpYy9kbGVudHJ5ICI+
+IDxkdCBjbGFzcz0iLSB0b3BpYy9kdCAiPiUlJTUlJSUKPC9kdD4gPGRkIGNsYXNzPSItIHRvcGlj
+L2RkICI+IDxkbCBjbGFzcz0iLSB0b3BpYy9kbCAiPiA8ZGxlbnRyeSBjbGFzcz0iLSB0b3BpYy9k
+bGVudHJ5ICI+IDxkdCBjbGFzcz0iLSB0b3BpYy9kdCAiPiUlJTYlJSUKPC9kdD4gPGRkIGNsYXNz
+PSItIHRvcGljL2RkICI+PHBoIGNsYXNzPSItIHRvcGljL3BoICIgcHJvZHVjdD0iWDEwMDAiPiUl
+JTclJSUKPC9waD48L2RkPiA8ZGQgY2xhc3M9Ii0gdG9waWMvZGQgIj48cGggY2xhc3M9Ii0gdG9w
+aWMvcGggIiBwcm9kdWN0PSJYMjAwMCI+JSUlOCUlJQo8L3BoPjwvZGQ+IDwvZGxlbnRyeT4gPGRs
+ZW50cnkgY2xhc3M9Ii0gdG9waWMvZGxlbnRyeSAiPiA8ZHQgY2xhc3M9Ii0gdG9waWMvZHQgIj4l
+JSU5JSUlCjwvZHQ+IDxkZCBjbGFzcz0iLSB0b3BpYy9kZCAiPjxwaCBjbGFzcz0iLSB0b3BpYy9w
+aCAiIHByb2R1Y3Q9IlgxMDAwIj4lJSUxMCUlJQo8L3BoPjwvZGQ+IDxkZCBjbGFzcz0iLSB0b3Bp
+Yy9kZCAiPjxwaCBjbGFzcz0iLSB0b3BpYy9waCAiIHByb2R1Y3Q9IlgyMDAwIj4lJSUxMSUlJQo8
+L3BoPjwvZGQ+IDwvZGxlbnRyeT4gPGRsZW50cnkgY2xhc3M9Ii0gdG9waWMvZGxlbnRyeSAiPiA8
+ZHQgY2xhc3M9Ii0gdG9waWMvZHQgIj4lJSUxMiUlJQo8L2R0PiA8ZGQgY2xhc3M9Ii0gdG9waWMv
+ZGQgIj48cGggY2xhc3M9Ii0gdG9waWMvcGggIiBwcm9kdWN0PSJYMTAwMCI+JSUlMTMlJSUKPC9w
+aD48L2RkPiA8ZGQgY2xhc3M9Ii0gdG9waWMvZGQgIj48cGggY2xhc3M9Ii0gdG9waWMvcGggIiBw
+cm9kdWN0PSJYMjAwMCI+JSUlMTQlJSUKPC9waD48L2RkPiA8L2RsZW50cnk+IDxkbGVudHJ5IGNs
+YXNzPSItIHRvcGljL2RsZW50cnkgIj4gPGR0IGNsYXNzPSItIHRvcGljL2R0ICI+JSUlMTUlJSUK
+PC9kdD4gPGRkIGNsYXNzPSItIHRvcGljL2RkICI+PHBoIGNsYXNzPSItIHRvcGljL3BoICIgcHJv
+ZHVjdD0iWDEwMDAiPiUlJTE2JSUlCjwvcGg+PC9kZD4gPGRkIGNsYXNzPSItIHRvcGljL2RkICI+
+PHBoIGNsYXNzPSItIHRvcGljL3BoICIgcHJvZHVjdD0iWDIwMDAiPiUlJTE3JSUlCjwvcGg+PC9k
+ZD4gPC9kbGVudHJ5PiA8ZGxlbnRyeSBjbGFzcz0iLSB0b3BpYy9kbGVudHJ5ICI+IDxkdCBjbGFz
+cz0iLSB0b3BpYy9kdCAiPiUlJTE4JSUlCjwvZHQ+IDxkZCBjbGFzcz0iLSB0b3BpYy9kZCAiPjxw
+aCBjbGFzcz0iLSB0b3BpYy9waCAiIHByb2R1Y3Q9IlgxMDAwIj4lJSUxOSUlJQo8L3BoPjwvZGQ+
+IDxkZCBjbGFzcz0iLSB0b3BpYy9kZCAiPjxwaCBjbGFzcz0iLSB0b3BpYy9waCAiIHByb2R1Y3Q9
+IlgyMDAwIj4lJSUyMCUlJQo8L3BoPjwvZGQ+IDwvZGxlbnRyeT4gPC9kbD4gPC9kZD4gPC9kbGVu
+dHJ5PiA8ZGxlbnRyeSBjbGFzcz0iLSB0b3BpYy9kbGVudHJ5ICI+IDxkdCBjbGFzcz0iLSB0b3Bp
+Yy9kdCAiPiUlJTIxJSUlCjwvZHQ+IDxkZCBjbGFzcz0iLSB0b3BpYy9kZCAiIHByb2R1Y3Q9Ilgx
+MDAwIj4lJSUyMiUlJQo8L2RkPiA8ZGQgY2xhc3M9Ii0gdG9waWMvZGQgIiBwcm9kdWN0PSJYMjAw
+MCI+JSUlMjMlJSUKPC9kZD4gPC9kbGVudHJ5PiA8ZGxlbnRyeSBjbGFzcz0iLSB0b3BpYy9kbGVu
+dHJ5ICI+IDxkdCBjbGFzcz0iLSB0b3BpYy9kdCAiPiUlJTI0JSUlCjwvZHQ+IDxkZCBjbGFzcz0i
+LSB0b3BpYy9kZCAiIHByb2R1Y3Q9IlgxMDAwIj4lJSUyNSUlJQo8L2RkPiA8ZGQgY2xhc3M9Ii0g
+dG9waWMvZGQgIiBwcm9kdWN0PSJYMjAwMCI+JSUlMjYlJSUKPC9kZD4gPC9kbGVudHJ5PiA8ZGxl
+bnRyeSBjbGFzcz0iLSB0b3BpYy9kbGVudHJ5ICI+IDxkdCBjbGFzcz0iLSB0b3BpYy9kdCAiPiUl
+JTI3JSUlCjwvZHQ+IDxkZCBjbGFzcz0iLSB0b3BpYy9kZCAiPiUlJTI4JSUlCjwvZGQ+IDwvZGxl
+bnRyeT4gPGRsZW50cnkgY2xhc3M9Ii0gdG9waWMvZGxlbnRyeSAiPiA8ZHQgY2xhc3M9Ii0gdG9w
+aWMvZHQgIj4lJSUyOSUlJQo8L2R0PiA8ZGQgY2xhc3M9Ii0gdG9waWMvZGQgIiBwcm9kdWN0PSJY
+MTAwMCI+JSUlMzAlJSUKPC9kZD4gPGRkIGNsYXNzPSItIHRvcGljL2RkICIgcHJvZHVjdD0iWDIw
+MDAiPiUlJTMxJSUlCjwvZGQ+IDwvZGxlbnRyeT4gPC9kbD4gPC9ib2R5PiA8L3RvcGljPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Brief specifications</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Display</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>2.10” screen, 320 x 240 resolution </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>2.40” screen, 480 x 360 resolution</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Dimensions</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>Height</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>110 mm</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source>112.5 mm</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>Width</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="10">
+      <source>56.9 mm</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="11">
+      <source>61.2 mm</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="12">
+      <source>Thickness</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="13">
+      <source>11.7 mm</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="14">
+      <source>14 mm</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="15">
+      <source>Weight</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="16">
+      <source>112 g</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="17">
+      <source>120 g</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="18">
+      <source>Volume</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="19">
+      <source>74 cc</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="20">
+      <source>68 cc</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="21">
+      <source>Battery life</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="22">
+      <source>About 5h talk time and 488h stand by time</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="23">
+      <source>About 5.5h talk time and 488h stand by time</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="24">
+      <source>Camera</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="25">
+      <source>4MP, 2x digital zoom</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="26">
+      <source>5MP, 2x digital zoom</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="27">
+      <source>Memory</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="28">
+      <source>SDRAM Memory 32MB</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="29">
+      <source>Bluetooth</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="30">
+      <source>N/A</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="31">
+      <source>3.0</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\adjustVolume.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJ0b3BpY190ajJfcHBrXzVmIj4gPHRpdGxlIGNsYXNzPSItIHRv
+cGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICI+
+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSUyJSUlCjx1bCBjbGFzcz0iLSB0b3BpYy91bCAiIGlk
+PSJ1bF9oM2tfd3FrXzVmIj4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUlMyUlJQo8L2xpPiA8
+bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSU0JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3BpYy9s
+aSAiPiUlJTUlJSUKPC9saT4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUlNiUlJQo8L2xpPiA8
+bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSU3JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3BpYy9s
+aSAiPiUlJTglJSUKPC9saT4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUlOSUlJQo8L2xpPiA8
+L3VsPjwvcD4gPC9ib2R5PiA8L3RvcGljPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Adjusting the volume changed something else REMOTE CHANGE My own change Another change</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>You can adjust the volume level of your ring tone </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Volume UP<ph id="1">&lt;/term&gt;</ph> key <ph ctype="x-other" id="2">&lt;ph class="- topic/ph " product="X1000"&gt;</ph>on the left side of your phone<ph id="3">&lt;/ph&gt;</ph> <ph ctype="x-other" id="4">&lt;ph class="- topic/ph " product="X2000"&gt;</ph>from the keyboard,<ph id="5">&lt;/ph&gt;</ph> to increase the volume.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>New step</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Volume DOWN<ph id="1">&lt;/term&gt;</ph> key <ph ctype="x-other" id="2">&lt;ph class="- topic/ph " product="X1000"&gt;</ph>on the left side of your phone<ph id="3">&lt;/ph&gt;</ph> <ph ctype="x-other" id="4">&lt;ph class="- topic/ph " product="X2000"&gt;</ph>from the keyboard<ph id="5">&lt;/ph&gt;</ph>, to decrease the volume.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>A well placed content</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>If you press <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Volume UP<ph id="1">&lt;/term&gt;</ph>/<ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Volume UP<ph id="3">&lt;/term&gt;</ph> button during a call, the volume for phone conversation is adjusted.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source>One last hint for the user.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>Some other step that I think it is needed</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\deleteEmails.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJ0b3BpY19sNHdfcHJnXzJnIj4gPHRpdGxlIGNsYXNzPSItIHRv
+cGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICI+
+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4gPHVsIGNsYXNzPSItIHRvcGljL3VsICIgaWQ9InVsX3Nm
+dl92cmdfMmciPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSUyJSUlCjwvbGk+IDxsaSBjbGFz
+cz0iLSB0b3BpYy9saSAiPiUlJTMlJSUKPC9saT4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUl
+NCUlJQolJSU1JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3BpYy9saSAiPiUlJTYlJSUKJSUlNyUl
+JQolJSU4JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3BpYy9saSAiPiUlJTklJSUKPC9saT4gPC91
+bD4gPC9wPiA8L2JvZHk+IDwvdG9waWM+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Deleting one or more email messages</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>To delete a mssaessage, select it and then press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Delete<ph id="1">&lt;/term&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>new item</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>To delete more messages, select them by pressing and holding the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Shift<ph id="1">&lt;/term&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source> Then Release the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Shift<ph id="1">&lt;/term&gt;</ph> key and select <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Delete Messages<ph id="3">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>To delete a saved message, select <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Menu<ph id="1">&lt;/term&gt;</ph> -&gt; <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Saved Messages<ph id="3">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source> Select the message you would like to delete and then press the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Delete<ph id="1">&lt;/term&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source> If necessary, delete the message from your message <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Inbox<ph id="1">&lt;/term&gt;</ph> as well.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>New item</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\gettingStarted.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJnZXR0aW5nX3N0YXJ0ZWQiPiA8dGl0bGUgY2xhc3M9Ii0gdG9w
+aWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hv
+cnRkZXNjICI+JSUlMiUlJQo8L3Nob3J0ZGVzYz4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAi
+Lz4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Getting Started</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Technical details.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\importantKeys.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJ0b3BpY180cXpfZ2ptXzJnIj4gPHRpdGxlIGNsYXNzPSItIHRv
+cGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICI+
+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSUyJSUlCjwvcD4gPHAgY2xhc3M9Ii0gdG9waWMvcCAi
+PiA8dGFibGUgY2xhc3M9Ii0gdG9waWMvdGFibGUgIiBmcmFtZT0iYWxsIiBpZD0idGFibGVfenhs
+X2ZrbV8yZyI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAiPiUlJTMlJSUKPC90aXRsZT4g
+PHRncm91cCBjbGFzcz0iLSB0b3BpYy90Z3JvdXAgIiBjb2xzPSIzIj4gPGNvbHNwZWMgY2xhc3M9
+Ii0gdG9waWMvY29sc3BlYyAiIGNvbG5hbWU9ImMxIiBjb2xudW09IjEiIGNvbHdpZHRoPSI0Ny40
+cHQiLz4gPGNvbHNwZWMgY2xhc3M9Ii0gdG9waWMvY29sc3BlYyAiIGNvbG5hbWU9ImMyIiBjb2xu
+dW09IjIiIGNvbHdpZHRoPSI1Ny42cHQiLz4gPGNvbHNwZWMgY2xhc3M9Ii0gdG9waWMvY29sc3Bl
+YyAiIGNvbG5hbWU9ImMzIiBjb2xudW09IjMiIGNvbHdpZHRoPSIxOTVwdCIvPiA8dGhlYWQgY2xh
+c3M9Ii0gdG9waWMvdGhlYWQgIj4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cgIj4gPGVudHJ5IG5h
+bWVlbmQ9ImMzIiBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiIG5hbWVzdD0iYzEiPiUlJTQlJSUKPC9l
+bnRyeT4gPC9yb3c+IDwvdGhlYWQ+IDx0Ym9keSBjbGFzcz0iLSB0b3BpYy90Ym9keSAiPiA8cm93
+IGNsYXNzPSItIHRvcGljL3JvdyAiPiA8ZW50cnkgY2xhc3M9Ii0gdG9waWMvZW50cnkgIiBhbGln
+bj0iY2VudGVyIj48aW1hZ2UgaGVpZ2h0PSIxZW0iIGhyZWY9Ii4uL2ltYWdlL2NhbGwuc3ZnIiBw
+bGFjZW1lbnQ9ImlubGluZSIgY2xhc3M9Ii0gdG9waWMvaW1hZ2UgIiBpZD0iaW1hZ2Vfd2x5X3Js
+bV8yZyIvPjwvZW50cnk+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPjx0ZXJtIGNsYXNz
+PSItIHRvcGljL3Rlcm0gIj4lJSU1JSUlCjwvdGVybT48L2VudHJ5PiA8ZW50cnkgY2xhc3M9Ii0g
+dG9waWMvZW50cnkgIj4gPHVsIGNsYXNzPSItIHRvcGljL3VsICIgaWQ9InVsX2s0bF92bG1fMmci
+PiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSU2JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3Bp
+Yy9saSAiPiUlJTclJSUKPC9saT4gPC91bD4gPC9lbnRyeT4gPC9yb3c+IDxyb3cgY2xhc3M9Ii0g
+dG9waWMvcm93ICI+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiIGFsaWduPSJjZW50ZXIi
+PjxpbWFnZSBoZWlnaHQ9IjFlbSIgaHJlZj0iLi4vaW1hZ2UvZW5kQ2FsbC5qcGciIHBsYWNlbWVu
+dD0iaW5saW5lIiBjbGFzcz0iLSB0b3BpYy9pbWFnZSAiIGlkPSJpbWFnZV9qcGhfeGxtXzJnIi8+
+PC9lbnRyeT4gPGVudHJ5IGNsYXNzPSItIHRvcGljL2VudHJ5ICI+PHRlcm0gY2xhc3M9Ii0gdG9w
+aWMvdGVybSAiPiUlJTglJSUKPC90ZXJtPjwvZW50cnk+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9l
+bnRyeSAiPiA8dWwgY2xhc3M9Ii0gdG9waWMvdWwgIiBpZD0idWxfeWs0X2JtbV8yZyI+IDxsaSBj
+bGFzcz0iLSB0b3BpYy9saSAiPiUlJTklJSUKPC9saT4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+
+JSUlMTAlJSUKPC9saT4gPC91bD4gPC9lbnRyeT4gPC9yb3c+IDxyb3cgY2xhc3M9Ii0gdG9waWMv
+cm93ICI+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiIGFsaWduPSJjZW50ZXIiPjxpbWFn
+ZSBoZWlnaHQ9IjFlbSIgaHJlZj0iLi4vaW1hZ2UvTG9jay5qcGciIHBsYWNlbWVudD0iaW5saW5l
+IiBjbGFzcz0iLSB0b3BpYy9pbWFnZSAiIGlkPSJpbWFnZV9iejNfaG1tXzJnIi8+PC9lbnRyeT4g
+PGVudHJ5IGNsYXNzPSItIHRvcGljL2VudHJ5ICI+PHRlcm0gY2xhc3M9Ii0gdG9waWMvdGVybSAi
+PiUlJTExJSUlCjwvdGVybT48L2VudHJ5PiA8ZW50cnkgY2xhc3M9Ii0gdG9waWMvZW50cnkgIj4g
+PHVsIGNsYXNzPSItIHRvcGljL3VsICIgaWQ9InVsX3l2cV93bW1fMmciPiA8bGkgY2xhc3M9Ii0g
+dG9waWMvbGkgIj4lJSUxMiUlJQo8L2xpPiA8L3VsPiA8L2VudHJ5PiA8L3Jvdz4gPHJvdyBjbGFz
+cz0iLSB0b3BpYy9yb3cgIj4gPGVudHJ5IGNsYXNzPSItIHRvcGljL2VudHJ5ICIgYWxpZ249ImNl
+bnRlciI+PGltYWdlIGhlaWdodD0iMWVtIiBocmVmPSIuLi9pbWFnZS9Fc2NhcGUuanBnIiBwbGFj
+ZW1lbnQ9ImlubGluZSIgY2xhc3M9Ii0gdG9waWMvaW1hZ2UgIiBpZD0iaW1hZ2VfcmxtX3FtbV8y
+ZyIvPjwvZW50cnk+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPjx0ZXJtIGNsYXNzPSIt
+IHRvcGljL3Rlcm0gIj4lJSUxMyUlJQo8L3Rlcm0+PC9lbnRyeT4gPGVudHJ5IGNsYXNzPSItIHRv
+cGljL2VudHJ5ICI+IDx1bCBjbGFzcz0iLSB0b3BpYy91bCAiIGlkPSJ1bF93a3dfNW1tXzJnIj4g
+PGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUlMTQlJSUKPC9saT4gPGxpIGNsYXNzPSItIHRvcGlj
+L2xpICI+JSUlMTUlJSUKPC9saT4gPC91bD4gPC9lbnRyeT4gPC9yb3c+IDxyb3cgY2xhc3M9Ii0g
+dG9waWMvcm93ICIgYmFzZT0iIj4gPGVudHJ5IGNsYXNzPSItIHRvcGljL2VudHJ5ICIgYWxpZ249
+ImNlbnRlciI+PGltYWdlIGhlaWdodD0iMWVtIiBocmVmPSIuLi9pbWFnZS9tZW51MS5qcGciIHBs
+YWNlbWVudD0iaW5saW5lIiBjbGFzcz0iLSB0b3BpYy9pbWFnZSAiIHByb2R1Y3Q9IlgxMDAwIiBp
+ZD0iaW1hZ2VfdG5qXzVubV8yZyIvPjxpbWFnZSBoZWlnaHQ9IjFlbSIgaHJlZj0iLi4vaW1hZ2Uv
+bWVudTIuanBnIiBwbGFjZW1lbnQ9ImlubGluZSIgY2xhc3M9Ii0gdG9waWMvaW1hZ2UgIiBwcm9k
+dWN0PSJYMjAwMCIgaWQ9ImltYWdlX3Rmbl9uYjRfMmciLz48L2VudHJ5PiA8ZW50cnkgY2xhc3M9
+Ii0gdG9waWMvZW50cnkgIj48dGVybSBjbGFzcz0iLSB0b3BpYy90ZXJtICI+JSUlMTYlJSUKPC90
+ZXJtPjwvZW50cnk+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPiA8dWwgY2xhc3M9Ii0g
+dG9waWMvdWwgIiBpZD0idWxfbGR3X3ZubV8yZyI+IDxsaSBjbGFzcz0iLSB0b3BpYy9saSAiPiUl
+JTE3JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3BpYy9saSAiPiUlJTE4JSUlCjwvbGk+IDwvdWw+
+IDwvZW50cnk+IDwvcm93PiA8L3Rib2R5PiA8L3Rncm91cD4gPC90YWJsZT4gPC9wPiA8cCBjbGFz
+cz0iLSB0b3BpYy9wICI+IDx0YWJsZSBjbGFzcz0iLSB0b3BpYy90YWJsZSAiIGZyYW1lPSJhbGwi
+IGlkPSJ0YWJsZV9yMXJfYzRuXzJnIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUl
+MTklJSUKPC90aXRsZT4gPHRncm91cCBjbGFzcz0iLSB0b3BpYy90Z3JvdXAgIiBjb2xzPSIyIiBh
+bGlnbj0iY2VudGVyIj4gPGNvbHNwZWMgY2xhc3M9Ii0gdG9waWMvY29sc3BlYyAiIGNvbG5hbWU9
+ImMxIiBjb2xudW09IjEiIGNvbHdpZHRoPSIxNDEuNnB0Ii8+IDxjb2xzcGVjIGNsYXNzPSItIHRv
+cGljL2NvbHNwZWMgIiBjb2xuYW1lPSJjMiIgY29sbnVtPSIyIiBjb2x3aWR0aD0iMjkxLjZwdCIv
+PiA8dGhlYWQgY2xhc3M9Ii0gdG9waWMvdGhlYWQgIj4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cg
+Ij4gPGVudHJ5IGNsYXNzPSItIHRvcGljL2VudHJ5ICI+JSUlMjAlJSUKPC9lbnRyeT4gPGVudHJ5
+IGNsYXNzPSItIHRvcGljL2VudHJ5ICIvPiA8L3Jvdz4gPC90aGVhZD4gPHRib2R5IGNsYXNzPSIt
+IHRvcGljL3Rib2R5ICI+IDxyb3cgY2xhc3M9Ii0gdG9waWMvcm93ICI+IDxlbnRyeSBjbGFzcz0i
+LSB0b3BpYy9lbnRyeSAiPiUlJTIxJSUlCjwvZW50cnk+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9l
+bnRyeSAiPiUlJTIyJSUlCjwvZW50cnk+IDwvcm93PiA8cm93IGNsYXNzPSItIHRvcGljL3JvdyAi
+PiA8ZW50cnkgY2xhc3M9Ii0gdG9waWMvZW50cnkgIj4lJSUyMyUlJQo8L2VudHJ5PiA8ZW50cnkg
+Y2xhc3M9Ii0gdG9waWMvZW50cnkgIj4lJSUyNCUlJQogPC9lbnRyeT4gPC9yb3c+IDxyb3cgY2xh
+c3M9Ii0gdG9waWMvcm93ICI+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPiUlJTI1JSUl
+CjwvZW50cnk+IDxlbnRyeSBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPiUlJTI2JSUlCjwvZW50cnk+
+IDwvcm93PiA8cm93IGNsYXNzPSItIHRvcGljL3JvdyAiPiA8ZW50cnkgY2xhc3M9Ii0gdG9waWMv
+ZW50cnkgIj4lJSUyNyUlJQo8L2VudHJ5PiA8ZW50cnkgY2xhc3M9Ii0gdG9waWMvZW50cnkgIj4l
+JSUyOCUlJQo8L2VudHJ5PiA8L3Jvdz4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cgIj4gPGVudHJ5
+IGNsYXNzPSItIHRvcGljL2VudHJ5ICI+JSUlMjklJSUKPC9lbnRyeT4gPGVudHJ5IGNsYXNzPSIt
+IHRvcGljL2VudHJ5ICI+JSUlMzAlJSUKPC9lbnRyeT4gPC9yb3c+IDwvdGJvZHk+IDwvdGdyb3Vw
+PiA8L3RhYmxlPiA8L3A+IDxwIGNsYXNzPSItIHRvcGljL3AgIi8+IDwvYm9keT4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Important keys and shortcuts</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>The most important keys and shortcuts of your phone are listed here:</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Important keys</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Keys on your phone keyboard</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Send </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>Make a call</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>Answer a call</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source>End<ph id="0">&lt;/term&gt;</ph>/<ph ctype="x-other" id="1">&lt;term class="- topic/term "&gt;</ph>Power</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>End a call</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="10">
+      <source>Return to the home menu</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="11">
+      <source>Lock</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="12">
+      <source>Lock or unlock the phone </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="13">
+      <source>Escape</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="14">
+      <source>Close the menu</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="15">
+      <source>Return to previous menu</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="16">
+      <source>Menu</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="17">
+      <source>Open the main menu</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="18">
+      <source>Select an item on click</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="19">
+      <source>Phone shortcuts</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="20">
+      <source>Most used shortcuts</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="21">
+      <source> Check your voice mail </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="22">
+      <source> Press and hold <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>1<ph id="1">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="23">
+      <source> Change your ring tone </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="24">
+      <source> Press and hold <ph ctype="image" id="0">&lt;image height="1em" href="../image/call.svg" placement="inline" class="- topic/image " id="image_p25_1pn_2g"/&gt;</ph> and then select <ph ctype="x-other" id="1">&lt;term class="- topic/term "&gt;</ph>Phone Ring Tones<ph id="2">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="25">
+      <source> Turn on or turn off the speakers</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="26">
+      <source> Press the <ph ctype="image" id="0">&lt;image height="1em" href="../image/speakerphone.jpg" placement="inline" class="- topic/image " id="image_1ql_hpn_2g"/&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="27">
+      <source> Set the device on silent mode</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="28">
+      <source> Press and hold the <ph ctype="image" id="0">&lt;image height="1em" href="../image/volume_down.jpg" placement="inline" class="- topic/image " id="image_jzr_kb4_2g"/&gt;</ph> key.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="29">
+      <source> Contact speed dial </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="30">
+      <source> Press and hold the key you would like to assign to contact for speed dial.</source>
+   </trans-unit>
+    </body>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXGVuZENhbGwu
+anBnIiwiaHJlZiI6Ii4uL2ltYWdlL2VuZENhbGwuanBnIn0=?>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXExvY2suanBn
+IiwiaHJlZiI6Ii4uL2ltYWdlL0xvY2suanBnIn0=?>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXEVzY2FwZS5q
+cGciLCJocmVmIjoiLi4vaW1hZ2UvRXNjYXBlLmpwZyJ9?>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXG1lbnUxLmpw
+ZyIsImhyZWYiOiIuLi9pbWFnZS9tZW51MS5qcGcifQ==?>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXG1lbnUyLmpw
+ZyIsImhyZWYiOiIuLi9pbWFnZS9tZW51Mi5qcGcifQ==?>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXHNwZWFrZXJw
+aG9uZS5qcGciLCJocmVmIjoiLi4vaW1hZ2Uvc3BlYWtlcnBob25lLmpwZyJ9?>
+    <?images eyJpbWFnZVBhdGgiOiJDOlxcVXNlcnNcXGFsZXhfc21hcmFuZGFjaGVcXERlc2t0b3BcXGdpdC13
+b3Jrc3BhY2VcXGdpdC1jbGllbnQtZGVtbzJcXG1vYmlsZS1waG9uZVxcaW1hZ2VcXHZvbHVtZV9k
+b3duLmpwZyIsImhyZWYiOiIuLi9pbWFnZS92b2x1bWVfZG93bi5qcGcifQ==?>
+  </file>
+  <file product-name="m" source-language="en" original="topics\introduction.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJ0b3BpY18yYmhfaGw1X3FmIj4gPHRpdGxlIGNsYXNzPSItIHRv
+cGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3No
+b3J0ZGVzYyAiPjxpIGNsYXNzPSIrIHRvcGljL3BoIGhpLWQvaSAiPiUlJTIlJSUKPC9pPjwvc2hv
+cnRkZXNjPiA8Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICI+IDxwIGNsYXNzPSItIHRvcGljL3Ag
+Ij4lJSUzJSUlCjwvcD4gPHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTQlJSUKPC9wPiA8cCBjbGFz
+cz0iLSB0b3BpYy9wICI+JSUlNSUlJQo8L3A+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSU2JSUl
+CjwvcD4gPHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTclJSUKPC9wPiA8L2JvZHk+IDwvdG9waWM+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Introduction - yyyyy-zzz</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>An intro.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>xxxx Welcome to Syncro mobile phone user guide.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>New para</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>This user guide is focused on describing features and functionality of your mobile phone.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>New one new content</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>Was added by a colleague</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\phoneBasics.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJwaG9uZV9iYXNpY3MiPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMv
+dGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRk
+ZXNjICI+JSUlMiUlJQo8L3Nob3J0ZGVzYz4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAiPiA8
+cCBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMyUlJQo8L3A+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4l
+JSU0JSUlCjwvcD4gPC9ib2R5PiA8L3RvcGljPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Phone Basics remote change</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Basic phone operations.TEXt</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>This section shows the basics phone features.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source> ssnew para.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\repairingThePhone.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJyZXBhaXJpbmciPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMvdGl0
+bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgIj4gPHAgY2xh
+c3M9Ii0gdG9waWMvcCAiPiUlJTIlJSUKPC9wPiA8cCBjbGFzcz0iLSB0b3BpYy9wICI+IDxvbCBj
+bGFzcz0iLSB0b3BpYy9vbCAiIGlkPSJvbF9idDNfM2diX2ZnIj4gPGxpIGNsYXNzPSItIHRvcGlj
+L2xpICI+JSUlMyUlJQo8L2xpPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSU0JSUlCiA8L2xp
+PiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSU1JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3Bp
+Yy9saSAiPiUlJTYlJSUKPC9saT4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUlNyUlJQo8L2xp
+PiA8L29sPiA8L3A+IDwvYm9keT4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Repairing the phone</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>This section contains a brief explanation that helps the technician to identify and troubleshoot the phone problems.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Take the back cover off and <ph ctype="x-link" id="0">&lt;xref href="../tasks/removingBattery.dita" class="- topic/xref "&gt;</ph>remove the battery<ph id="1">&lt;/xref&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Inspect the phone main-board.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Look for signs of corrosion or moisture and, if found, replace the main-board.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>Insert the battery.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>Put the back cover on.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\runDiagnosticReport.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJ0b3BpY19qdG5feTJjX2ZnIj4gPHRpdGxlIGNsYXNzPSItIHRv
+cGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICI+
+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSUyJSUlCiUlJTMlJSUKPG9sIGNsYXNzPSItIHRvcGlj
+L29sICIgaWQ9Im9sX201bl93ZmNfZmciPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSU0JSUl
+CjwvbGk+IDxsaSBjbGFzcz0iLSB0b3BpYy9saSAiPiUlJTUlJSUKPC9saT4gPGxpIGNsYXNzPSIt
+IHRvcGljL2xpICI+JSUlNiUlJQo8L2xpPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSU3JSUl
+CjwvbGk+IDwvb2w+PC9wPiA8L2JvZHk+IDwvdG9waWM+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Running problem diagnostic report</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>If you have connectivity problems, you can run a diagnostic report that helps you to identity the issues the phone might have.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source> To run the report, follow this procedure:</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Select <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Menu<ph id="1">&lt;/term&gt;</ph> &gt; <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Settings<ph id="3">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Choose <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Advanced Settings<ph id="1">&lt;/term&gt;</ph> &gt; <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Problem diagnostic<ph id="3">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>Press <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Run<ph id="1">&lt;/term&gt;</ph>.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>Look for out of range data.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\serviceAndTroubleshooting.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJ0cm91Ymxlc2hvb3RpbmciPiA8dGl0bGUgY2xhc3M9Ii0gdG9w
+aWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hv
+cnRkZXNjICI+JSUlMiUlJQo8L3Nob3J0ZGVzYz4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAi
+PiA8cCBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMyUlJQo8L3A+IDwvYm9keT4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Troubleshooting</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>How to fix common problems.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>Troubleshoot most common issues.</source>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="m" source-language="en" original="topics\setup.dita" datatype="x-ditamap" target-language="it" tool-id="OpenXLIFF" build-num="0" product-version="1679568499912">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJzZXR1cCI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAi
+PiUlJTElJSUKPC90aXRsZT4gPHNob3J0ZGVzYyBjbGFzcz0iLSB0b3BpYy9zaG9ydGRlc2MgIj4l
+JSUyJSUlCjwvc2hvcnRkZXNjPiA8Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICI+IDxwIGNsYXNz
+PSItIHRvcGljL3AgIj4lJSUzJSUlCjwvcD4gPHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTQlJSUK
+JSUlNSUlJQo8L3A+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSU2JSUlCjwvcD4gPC9ib2R5PiA8
+L3RvcGljPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Phone Setup</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>Basic phone setup.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>A new content.<ph ctype="x-italic" id="0">&lt;i class="+ topic/ph hi-d/i "&gt;</ph>new<ph id="1">&lt;/i&gt;</ph></source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Second paragraph.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source> Text</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>A change.</source>
+   </trans-unit>
+    </body>
+  </file>
+</xliff>
