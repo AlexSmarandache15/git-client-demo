@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="it" id="bt">
+  <title>Bluetooth®</title>
+  <shortdesc>Connect to any device</shortdesc>
+  <conbody>
+    <p>Bluetooth® is a wireless technology for exchanging data over short distances without physical connection</p>
+  </conbody>
+</concept>
