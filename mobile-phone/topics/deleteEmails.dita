@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_l4w_prg_2g">
-  <title>Deleting one or more email messages</title>
+  <title> one or more email messages</title>
   <body>
     <p>
       <ul id="ul_sfv_vrg_2g">
-        <li>To delete a mssaessage, select it and then press the <term>Delete</term> key.</li>
+        <li>To <delete translate="no"/>
+
+### a message, select it and then press the <term>Delete</term> key.</li>
         <li>new item</li>
-        <li>To delete more messages, select them by pressing and holding the <term>Shift</term> key.
+        <li>To delete mehr Nachrichten, select them by pressing and holding the <term>Shift</term> key.
           Then Release the <term>Shift</term> key and select <term>Delete Messages</term>.</li>
         <li>To delete a saved message, select <term>Menu</term> -> <term>Saved Messages</term>.
-          Select the message you would like to delete and then press the <term>Delete</term> key. If
-          necessary, delete the message from your message <term>Inbox</term> as well.</li>
+          Sélectionnez le message que vous souhaitez like to delete and then press the <term>Delete</term> key. If
+          necessary, deletez le message de votre message <term>Inbox</term> as well.</li>
         <li>New item</li>
       </ul>
     </p>

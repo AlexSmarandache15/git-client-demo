@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_tj2_ppk_5f">
-  <title>Adjusting the volume changed something else REMOTE CHANGE My own change Another
-    change</title>
-  <body>
-    <p>You can adjust the volume level of your ring tone  <ul id="ul_h3k_wqk_5f">
-        <li>Press the <term>Volume UP</term> key <ph product="X1000">on the left side of your
-            phone</ph>
-          <ph product="X2000">from the keyboard,</ph> to increase the volume.</li>
-        <li>New step</li>
-        <li>Press the <term>Volume DOWN</term> key <ph product="X1000">on the left side of your
-            phone</ph>
-          <ph product="X2000">from the keyboard</ph>, to decrease the volume.</li>
-        <li>A well placed content</li>
-        <li>If you press <term>Volume UP</term>/<term>Volume UP</term> button during a call, the
-          volume for phone conversation is adjusted.</li>
-        <li>One last hint for the user.</li>
-        <li>Some other step that I think it is needed</li>
-      </ul></p>
-  </body>
-</topic>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="springFlowers">
+  <title>Spring Flowers</title>
+  <conbody>
+    <p>Syncro Soft presents a brief summary of its company.</p>
+    <p/>
+    <p>Temps de printemps, le temps de la croissance et du renouveau de la nouvelle vie végétale et animale. Le printemps arrive à des moments différents dans les hémisphères nord et sud. Le printemps dans l'hémisphère nord est entre mars et mai, et entre septembre et novembre dans l'hémisphère sud. La plupart des plantes à fleurs fleurissent pendant le printemps. Par conséquent, les fleurs qui fleurissent uniquement pendant le printemps, les fleurs de printemps, fleurissent à des moments différents dans les deux hémisphères.</p>
+    <ol>
+  <li>Oxygen XML Editor</li>
+  <li>XMLSpy</li>
+  <li>Notepad++</li>
+  <li>Visual Studio Code</li>
+  <li>EmEditor</li>
+</ol>
+    <p>Some of the flowers blooming in Spring are: Agapanthus, Amaryllis,
+      Anemone, Apple blossom, Bird of Paradise, Brodea, Calla lily, Cherry Blossom, Corn
+      flower, Cosmose, Dahlia, Delphinium, Delwood, Forsythia, Freesia, Gardenia, Heather,
+      Helleborus, Hollyhock, Hyacinth, Larkspur, Casa Blanca Lily, Gloriosa Lily, Stargazer,
+      Liatrus, Lilac, Lisianthus, Narcissus, Orchid, Peach blossom, Peony, Phlox, Poppy,
+      Protea, Pussy willow, Ranunculus, Rose, Seeded Eucalyptus, Solidago, Statice,
+      Stephanotis, Stock, Sweet Pea, Tulip, Viburnum, Wax flower, Zinnia. </p>
+   <p>Ceci est mon texte.</p>
+    <p>Darth Maul is a Sith Lord and a skilled warrior trained in the ways of the dark side of the Force. He is recognized by his distinctive red and black facial tattoos, and his weapon of choice is a double-bladed lightsaber. Maul first appeared in Star Wars Episode I: The Phantom Menace, where he was sent to kill Jedi Master Qui-Gon Jinn and his Padawan, Obi-Wan Kenobi. Despite his defeat in that film, Maul has since reappeared in various Star Wars media and has become a fan favorite character.</p>   
+   <ol>
+  <li>Lionel Messi</li>
+  <li>Cristiano Ronaldo</li>
+  <li>Neymar Jr.</li>
+  <li>Kevin De Bruyne</li>
+                                                                                               <li>Robert Lewandowski</li>
+  <li>Mohamed Salah</li>
+  <li>Kylian Mbappe</li>
+                                                              <li>Sadio Mane</li>
+  <li>Sergio Aguero</li>
+  <li>Virgil van Dijk</li>
+</ol>
+  </conbody>
+</concept>

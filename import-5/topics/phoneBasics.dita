@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="phone_basics">
+<topic xml:lang="it" id="phone_basics">
   <title>Phone Basics remote change</title>
-  <shortdesc>Basic phone operations.TE Xt</shortdesc>
+  <shortdesc>Basic phone operations.TEXt</shortdesc>
   <body>
     <p>This section shows the basics phone features.</p>
-<<<<<<< HEAD
-    <p> ssnejjjw para.</p>
-</topic>mm
-=======
     <p> ssnew para.</p>
   </body>
 </topic>
->>>>>>> stash
