@@ -357,9 +357,6 @@
                                 <field name="lastCustomSkinCssPath">
                                     <null/>
                                 </field>
-                                <field name="webhelpResponsiveTemplate">
-                                    <null/>
-                                </field>
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
